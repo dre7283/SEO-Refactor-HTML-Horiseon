@@ -99,6 +99,10 @@ main {
     background-color: #2589bd;
 }
 
+.benefit{
+
+}
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -114,6 +118,10 @@ main {
     color: #ffffff;
 }
 
+.benefit h3{
+
+}
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -127,6 +135,10 @@ main {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+}
+
+.benefit img{
+    
 }
 
 .benefit-lead img {
