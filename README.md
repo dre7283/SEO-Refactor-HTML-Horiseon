@@ -5,7 +5,7 @@ This is the first homework assignment for the OSU Coding bootcamp.  We are refac
 
 ## Installation
 
-git clone: git@github.com:dre7283/SEO-Refactor-HTML-Horizon.git
+git clone: git@github.com:dre7283/SEO-Refactor-HTML-Horieson.git
 
 open in text editor
 
